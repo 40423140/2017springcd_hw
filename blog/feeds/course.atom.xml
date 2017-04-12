@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423140上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-22T00:00:00+08:00</updated><entry><title>20170322</title><link href="./40423140w4.html" rel="alternate"></link><updated>2017-03-22T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-03-22:./40423140w4.html</id><summary type="html">&lt;h2&gt;onelink&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423140上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-30T00:00:00+08:00</updated><entry><title>20170330W6</title><link href="./40423140w6.html" rel="alternate"></link><updated>2017-03-30T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-03-30:./40423140w6.html</id><summary type="html">&lt;h2&gt;四連桿機構轉入V-REP進行運動模擬&lt;/h2&gt;
+&lt;h2&gt;零件繪製影片&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/211640425" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211640425"&gt;w6 fourbar part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user46449861"&gt;40423140&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/211640442" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/211640442"&gt;w6 fourbar part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user46449861"&gt;40423140&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;四連桿組立影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/211640371" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/211640371"&gt;fourbar assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user46449861"&gt;40423140&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w6"></category></entry><entry><title>20170322W4</title><link href="./40423140w4.html" rel="alternate"></link><updated>2017-03-22T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-03-22:./40423140w4.html</id><summary type="html">&lt;h2&gt;onelink&lt;/h2&gt;
 
 
 &lt;iframe src="https://player.vimeo.com/video/209552330" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -111,7 +122,7 @@ The core of HyperMesh has always been about meshing and geometry cleanup， Hype
 &lt;p&gt;The quality of the connector that you create really determine the outcome of the quality of the overall assembled model as well.&lt;/p&gt;
 &lt;p&gt;D接合處的品質決定了整體組裝模型的品質。&lt;/p&gt;
 &lt;p&gt;So for us to get a good high fidelity solution, you have to have a really good connection generation as well.&lt;/p&gt;
-&lt;p&gt;所以為了讓我們得到一個良好的解析度，必須有更密集的連接點。&lt;/p&gt;</summary><category term="w4"></category></entry><entry><title>20170314</title><link href="./40423140W3.html" rel="alternate"></link><updated>2017-03-14T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-03-14:./40423140W3.html</id><summary type="html">&lt;h2&gt;onshape四連桿機構&lt;/h2&gt;
+&lt;p&gt;所以為了讓我們得到一個良好的解析度，必須有更密集的連接點。&lt;/p&gt;</summary><category term="w4"></category></entry><entry><title>20170314W3</title><link href="./40423140W3.html" rel="alternate"></link><updated>2017-03-14T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-03-14:./40423140W3.html</id><summary type="html">&lt;h2&gt;onshape四連桿機構&lt;/h2&gt;
 
 
 &lt;iframe src="https://player.vimeo.com/video/209551046" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -228,7 +239,7 @@ The core of HyperMesh has always been about meshing and geometry cleanup， Hype
 &lt;p&gt;The quality of the connector that you create really determine the outcome of the quality of the overall assembled model as well.&lt;/p&gt;
 &lt;p&gt;D接合處的品質決定了整體組裝模型的品質。&lt;/p&gt;
 &lt;p&gt;So for us to get a good high fidelity solution, you have to have a really good connection generation as well.&lt;/p&gt;
-&lt;p&gt;所以為了讓我們得到一個良好的解析度，必須有更密集的連接點。&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>20170302</title><link href="./40423140w2.html" rel="alternate"></link><updated>2017-03-02T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-03-02:./40423140w2.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
+&lt;p&gt;所以為了讓我們得到一個良好的解析度，必須有更密集的連接點。&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>20170302W2</title><link href="./40423140w2.html" rel="alternate"></link><updated>2017-03-02T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-03-02:./40423140w2.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
 
 
 &lt;iframe src="https://player.vimeo.com/video/207446283" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
