@@ -8,14 +8,52 @@
 &lt;h2&gt;(一) Fossil Server 實習查驗&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://mde2a2.kmol.info/midterm/ag4/index"&gt;ag4期中考報告 fossil &lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;(二) 四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
-&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/6cwQ4ia1bLo?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
+&lt;p&gt;&lt;a href="https://40423106.github.io/2016fallcadp_hw/blog/qi-zhong-bao-gao.html"&gt;40423106_四連桿機構協同 Trace Point 查驗&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423107.github.io/2016fallcadp_hw/blog/40423107W9.html"&gt;40423107_四連桿機構協同 Trace Point 查驗&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423108.github.io/2017springcd_hw/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-zhong-fourbar-walker-onshape-ling-jian-xie-tong-hui-tu-yu-zu-li-cha-yan.html"&gt;40423108_四連桿機構協同 Trace Point 查驗&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423125.github.io/2016fallcadp_hw/blog/40423125_si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html"&gt;40423125_四連桿機構協同 Trace Point 查驗&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423139.github.io/2016fallcadp_hw/blog/40423139_si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html"&gt;40423139_四連桿機構協同 Trace Point 查驗&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423140.github.io/2016fallcadp_hw/blog/40423140_si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html"&gt;40423140_四連桿機構協同 Trace Point 查驗&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h2&gt;
 &lt;p&gt;利用SolveSpace畫Fourbar Walker影片&lt;/p&gt;
 &lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/5nohBEM7uA8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;利用OnShape組立Fourbar Walker影片&lt;/p&gt;
-&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/UgkV_cSpS5Y?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="w9"></category></entry><entry><title>20170405W6</title><link href="./40423140w6.html" rel="alternate"></link><updated>2017-04-05T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-04-05:./40423140w6.html</id><summary type="html">&lt;h2&gt;四連桿機構轉入V-REP進行運動模擬&lt;/h2&gt;
+&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/UgkV_cSpS5Y?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2&gt;(四) 分組協同零件展示&lt;/h2&gt;
+&lt;p&gt;&lt;link href="./../work/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
+&lt;script src="./../work/madeleine/src/stats.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/detector.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/three.min.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/40423140.stl', // data path
+      path: './../work/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+&lt;/script&gt;
+
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="./../w9/loader.js"&gt;&lt;/script&gt;
+
+&lt;script src="./../w9/stl.js"&gt;&lt;/script&gt;
+
+&lt;div&gt;
+select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
+&lt;/div&gt;
+
+&lt;div id="view"&gt;&lt;/div&gt;</summary><category term="w9"></category></entry><entry><title>20170405W6</title><link href="./40423140w6.html" rel="alternate"></link><updated>2017-04-05T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-04-05:./40423140w6.html</id><summary type="html">&lt;h2&gt;四連桿機構轉入V-REP進行運動模擬&lt;/h2&gt;
 
 
 &lt;h2&gt;零件繪製影片&lt;/h2&gt;
