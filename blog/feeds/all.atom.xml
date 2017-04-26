@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423140上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T00:00:00+08:00</updated><entry><title>20170405W6</title><link href="./40423140w6.html" rel="alternate"></link><updated>2017-04-05T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-04-05:./40423140w6.html</id><summary type="html">&lt;h2&gt;四連桿機構轉入V-REP進行運動模擬&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423140上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-20T00:00:00+08:00</updated><entry><title>20170420W9</title><link href="./40423140w9.html" rel="alternate"></link><updated>2017-04-20T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-04-20:./40423140w9.html</id><summary type="html">&lt;p&gt;1.Fossil Server 實習查驗&lt;/p&gt;
+&lt;p&gt;2.四連桿機構協同 Trace Point 查驗&lt;/p&gt;
+&lt;p&gt;3.Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/p&gt;
+&lt;p&gt;4.分組協同零件展示&lt;/p&gt;
+
+
+&lt;h2&gt;(一) Fossil Server 實習查驗&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://mde2a2.kmol.info/midterm/ag4/index"&gt;ag4期中考報告 fossil &lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
+&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/6cwQ4ia1bLo?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2&gt;(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h2&gt;
+&lt;p&gt;利用SolveSpace畫Fourbar Walker影片&lt;/p&gt;
+&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/5nohBEM7uA8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;利用OnShape組立Fourbar Walker影片&lt;/p&gt;
+&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/UgkV_cSpS5Y?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="w9"></category></entry><entry><title>20170405W6</title><link href="./40423140w6.html" rel="alternate"></link><updated>2017-04-05T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-04-05:./40423140w6.html</id><summary type="html">&lt;h2&gt;四連桿機構轉入V-REP進行運動模擬&lt;/h2&gt;
 
 
 &lt;h2&gt;零件繪製影片&lt;/h2&gt;
