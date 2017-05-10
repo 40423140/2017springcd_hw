@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423140上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-06T00:00:00+08:00</updated><entry><title>20170506W11</title><link href="./40423140w11-1.html" rel="alternate"></link><updated>2017-05-06T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-05-06:./40423140w11-1.html</id><summary type="html">&lt;h2&gt;協同 2D 正齒輪傳動繪圖 (二)11-13齒&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423140上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-06T00:00:00+08:00</updated><entry><title>20170506W11</title><link href="./40423140w11-1.html" rel="alternate"></link><updated>2017-05-06T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-05-06:./40423140w11-1.html</id><summary type="html">&lt;h2&gt;協同 2D 正齒輪傳動繪圖 (二)11齒&lt;/h2&gt;
 
 
-&lt;p&gt;&lt;a href="https://40423125.github.io/2016fallcadp_hw/blog/40423125_chi-lun-nie-he-chuan-dong-11-17chi.html"&gt;齒輪嚙合傳動11-17齒&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://40423125.github.io/2016fallcadp_hw/blog/40423125_chi-lun-nie-he-chuan-dong-13-17chi.html"&gt;齒輪嚙合傳動13-17齒&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423140.github.io/2016fallcadp_hw/blog/20170506di-shi-yi-zhou.html"&gt;齒輪嚙合傳動13齒&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423140.github.io/2016fallcadp_hw/blog/20170507di-shi-yi-zhou.html"&gt;齒輪嚙合傳動17齒&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;利用漸開線原理, 以 Brython 繪製單一正齒輪廓:&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -287,8 +287,8 @@ set_interval(draw, 2)
 &lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017050W11</title><link href="./40423140w11.html" rel="alternate"></link><updated>2017-05-04T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-05-04:./40423140w11.html</id><summary type="html">&lt;h2&gt;協同 2D 正齒輪傳動繪圖&lt;/h2&gt;
 
 
-&lt;p&gt;&lt;a href="https://40423125.github.io/2016fallcadp_hw/blog/40423125_chi-lun-chuan-dong-13chi.html"&gt;正齒輪傳動13齒&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://40423125.github.io/2016fallcadp_hw/blog/40423125_chi-lun-chuan-dong-17chi.html"&gt;正齒輪傳動17
+&lt;p&gt;&lt;a href="https://40423140.github.io/2016fallcadp_hw/blog/20170504di-shi-yi-zhou.html"&gt;正齒輪傳動13齒&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423140.github.io/2016fallcadp_hw/blog/20170505di-shi-yi-zhou.html"&gt;正齒輪傳動17
 齒&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;利用漸開線原理, 以 Brython 繪製單一正齒輪廓:&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
