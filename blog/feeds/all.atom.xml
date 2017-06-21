@@ -8,7 +8,7 @@
 &lt;p&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/p&gt;
 
 
-&lt;p&gt;1.&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/lzQjw4m_Kyc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h1&gt;1.&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/lzQjw4m_Kyc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/h1&gt;
 &lt;h2&gt;2.&lt;/h2&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
@@ -71,50 +71,30 @@ ctx.fill()
 
 &lt;/script&gt;
 
-&lt;h2&gt;程式碼&lt;/h2&gt;
+&lt;script src="https://gist.github.com/40423140/946a2e6a42c8664a6f6b3e4754409e04.js"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;pre class="brush: python"&gt;
-&lt;canvas id="fourbar" width="800" height="600"&gt;&lt;/canvas&gt;&lt;/p&gt;
-&lt;div id="container1"&gt;&lt;/div&gt;
+&lt;h1&gt;3.各組員倉儲中的子模組建立與運用&lt;/h1&gt;
+&lt;p&gt;先創兩個新倉儲 g100和 ag100&lt;/p&gt;
+&lt;p&gt;一樣設好分支 gh-pages&lt;/p&gt;
+&lt;p&gt;然後 git clone 下來&lt;/p&gt;
+&lt;p&gt;進入 g100 (cd g100)&lt;/p&gt;
+&lt;p&gt;新增一個分支git branch gh-pages&lt;/p&gt;
+&lt;p&gt;切換分支 git checkout gh-pages&lt;/p&gt;
+&lt;p&gt;git submodule add -b gh-pages https://github.com/40423140/ag100.git ag100&lt;/p&gt;
+&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/yv4gfK-FHMI?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-from browser import html
-import math
-# 準備繪圖畫布
-canvas = doc["fourbar"]
-container1 = doc['container1']
-ctx = canvas.getContext("2d")
+&lt;h1&gt;4.各組員 Solvespace 近端零組件繪圖, 並在各組員網誌中顯示指定的零組件&lt;/h1&gt;
+&lt;p&gt;&lt;h1&gt;html3D展示&lt;/h1&gt;
+&lt;iframe src="./../final/1.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="./../final/2.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-#繪製第一隻腳
-ctx.beginPath()
-ctx.moveTo(229.201,522.023)
-ctx.lineTo(259.1,477.945)
-ctx.lineTo(208.901,443.893)
-ctx.lineTo(381.843,188.945)
-ctx.lineTo(310.246,140.378)
-ctx.lineTo(137.304,395.325)
-ctx.lineTo(87.105,361.273)
-ctx.lineTo(57.205,405.351)
-ctx.lineTo(299.201,522.023)
-ctx.fillStyle="green"
-ctx.fill()
+&lt;iframe src="./../final/3.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-#繪製第二隻腳
-ctx.beginPath()
-ctx.moveTo(451.793,507.277)
-ctx.lineTo(417.693,466.362)
-ctx.lineTo(464.29,427.526)
-ctx.lineTo(267.053,190.873)
-ctx.lineTo(333.512,135.482)
-ctx.lineTo(530.749,372.136)
-ctx.lineTo(577.346,333.3)
-ctx.lineTo(611.447,374.215)
-ctx.lineTo(451.793,507.277)
-ctx.fillStyle="red"
-ctx.fill()
+&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/jVmq0O6qRGo?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;/script&gt;</summary><category term="w17"></category></entry><entry><title>20170608W16</title><link href="./40423140w16.html" rel="alternate"></link><updated>2017-06-08T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-06-08:./40423140w16.html</id><summary type="html">&lt;p&gt;四足行走機構&lt;/p&gt;
+&lt;h1&gt;5.各組員 Solvespace 零件轉入 V-rep, 並設定驅動零件進行動態模擬&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/2zgLYZu"&gt;&lt;img src="http://i.imgur.com/2zgLYZu.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div style="position:relative;height:0;padding-bottom:56.25%"&gt;&lt;iframe src="https://www.youtube.com/embed/0iHFMRdNsiA?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="w17"></category></entry><entry><title>20170608W16</title><link href="./40423140w16.html" rel="alternate"></link><updated>2017-06-08T00:00:00+08:00</updated><author><name>40423140</name></author><id>tag:,2017-06-08:./40423140w16.html</id><summary type="html">&lt;p&gt;四足行走機構&lt;/p&gt;
 
 
 &lt;h1&gt;等角投影圖&lt;/h1&gt;
